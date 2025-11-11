@@ -82,5 +82,5 @@ Se você **realmente** quiser rodar estes projetos localmente, você precisará 
 
 ## 👨‍💻 Autor
 
-* **[Igor Barbosa]**
-* **LinkedIn:** [(https://www.linkedin.com/in/igor-barbosa-negreiros)]
+* **Igor Barbosa**
+* **LinkedIn:** [Igor Barbosa Negreiros](https://www.linkedin.com/in/igor-barbosa-negreiros)
